@@ -4,9 +4,9 @@ A program for exercising site reading skills
 The program is for musicians who are just starting out learning to reading sheetmusic.
 
 The graphic user interface (GUI) consist of three pages:
-  1. Home page
-  2. Reference page
-  3. Practice page
+  - Home page
+  - Reference page
+  - Practice page
   
 1. Home Page
 The home page has a menu with the options of selecting between viewing the reference notes or start practicing site reading
